@@ -1,0 +1,2 @@
+-e git://github.com/kblum/crash_hound.git@90ac96538acf9bdbb5ff410d13f10344533570a7#egg=crash_hound-dev
+wsgiref==0.1.2
