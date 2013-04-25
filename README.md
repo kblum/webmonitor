@@ -12,7 +12,7 @@ The project should be set up in a `virtualenv`. The dependencies can then be ins
 
 ## Configuration
 
-All application configured is managed using environment variables.
+All application configuration is managed using environment variables.
 
 The URL to monitor, notification email address as well as the credentials for the SMTP must be set as environment variables. The `EMAIL_TO` variable will be used for both the destination and source email addresses.
 
